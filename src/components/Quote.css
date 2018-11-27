@@ -1,0 +1,41 @@
+.Quote {
+  background-color: #fafafa;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+  color: #666;
+  margin: 50px auto;
+  padding: 30px;
+  text-align: center;
+  width: 50%;
+}
+
+.Quote__icon {
+  float: left;
+  height: 30px;
+  padding-right: 15px;
+  width: 30px;
+}
+
+.Quote__get-quote-btn {
+  background-color: tomato;
+  border-radius: 10px;
+  box-shadow: 0 15px 15px rgba(0, 0, 0, 0.08);
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  outline: none;
+  padding: 16px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.Quote__share-twitter-btn {
+  display: block;
+  height: 30px;
+  margin: 10px auto;
+  width: 30px;
+}
+
+.Quote__author {
+  color: #333;
+}
