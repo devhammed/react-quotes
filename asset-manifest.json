@@ -1,7 +1,7 @@
 {
   "main.css": "/react-quotes/static/css/main.a0e68075.chunk.css",
-  "main.js": "/react-quotes/static/js/main.122d8505.chunk.js",
-  "main.js.map": "/react-quotes/static/js/main.122d8505.chunk.js.map",
+  "main.js": "/react-quotes/static/js/main.0b5d1780.chunk.js",
+  "main.js.map": "/react-quotes/static/js/main.0b5d1780.chunk.js.map",
   "static/js/1.d91b9606.chunk.js": "/react-quotes/static/js/1.d91b9606.chunk.js",
   "static/js/1.d91b9606.chunk.js.map": "/react-quotes/static/js/1.d91b9606.chunk.js.map",
   "runtime~main.js": "/react-quotes/static/js/runtime~main.aa968275.js",
@@ -10,6 +10,6 @@
   "static/media/twitter-square.svg": "/react-quotes/static/media/twitter-square.1fff4324.svg",
   "static/media/quote-left.svg": "/react-quotes/static/media/quote-left.ec012766.svg",
   "index.html": "/react-quotes/index.html",
-  "precache-manifest.1cbf89fa73daf65b532976347d985f5e.js": "/react-quotes/precache-manifest.1cbf89fa73daf65b532976347d985f5e.js",
+  "precache-manifest.2437233a23456cba28989d1c19dd8e63.js": "/react-quotes/precache-manifest.2437233a23456cba28989d1c19dd8e63.js",
   "service-worker.js": "/react-quotes/service-worker.js"
 }
