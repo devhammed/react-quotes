@@ -1,13 +1,13 @@
-import React, { Component } from 'react';
-import Quote from './components/Quote';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import './App.css';
+import React, { Component } from 'react'
+import Quote from './components/Quote'
+import Header from './components/Header'
+import Footer from './components/Footer'
+import './App.css'
 
 export default class App extends Component {
-  render() {
+  render () {
     return (
-      <div className="App">
+      <div className='App'>
         <Header />
         <Quote />
         <Footer />
